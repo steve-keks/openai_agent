@@ -1,0 +1,2 @@
+# ran this command to get venv available for notebook
+python -m ipykernel install --user --name=venv --display-name "Python (venv)"

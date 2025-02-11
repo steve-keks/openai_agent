@@ -1,0 +1,1 @@
+this repo is for building an ai agent purely in python
